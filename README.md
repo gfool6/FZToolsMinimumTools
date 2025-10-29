@@ -2,7 +2,7 @@
 
 ### 本当に細々としたツールが追加されます
 
-インストールは[こちら](vcc://vpm/addRepo?url=https://gfool6.github.io/vpm-repos/vpm.json)
+インストールは[こちら](vcc://vpm/addRepo?url=https://gfool6.github.io/vpm-repos/vpm-list.json)
 
 ## 顔にフォーカスするカメラを作ってメインカメラと切り替えできる機能
 - 読んで字の如くです
